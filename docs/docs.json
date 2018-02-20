@@ -1,0 +1,8 @@
+{
+	"version":"1.0.0",
+	"title":"SSD1351",
+	"copyright":"Zerynth Team",
+	"files":[
+		["SSD1351","ssd1351.py"]
+	]
+}
