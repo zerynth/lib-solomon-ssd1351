@@ -1,0 +1,15 @@
+---
+description: Driver for SOLOMON SSD1351 Controller for color OLED display
+fullname: lib.solomon.ssd1351
+info:
+    chip_manufacturer: SOLOMON
+    chip_name: SSD1351
+    name: OLED Display Driver
+    type: Actuator
+keywords:
+- solomon
+- oled
+- display
+- color
+title: SSD1351 color OLED display Controller
+...
